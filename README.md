@@ -24,3 +24,5 @@
 <img src="https://understanding963852.github.io/img/promise7.png" style="width:400px">
 
 <img src="https://understanding963852.github.io/img/promise8.png" style="width:400px">
+
+<img src="https://understanding963852.github.io/img/promise9.png" style="width:400px">
