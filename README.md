@@ -8,3 +8,5 @@
 
 
 <img src="https://understanding963852.github.io/img/promise3.png" style="width:400px">
+
+<img src="https://understanding963852.github.io/img/promise4.png" style="width:400px">
