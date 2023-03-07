@@ -1,5 +1,6 @@
 [promise함수]("https://www.youtube.com/watch?v=3Ao3OroqQLQ&t=10s")
 
+
 <img src="https://understanding963852.github.io/img/promise1.png" style="width:400px">
 
 <img src="https://understanding963852.github.io/img/promise2.png" style="width:400px">
