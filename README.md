@@ -10,3 +10,8 @@
 <img src="https://understanding963852.github.io/img/promise3.png" style="width:400px">
 
 <img src="https://understanding963852.github.io/img/promise4.png" style="width:400px">
+* 성공이라면..
+
+<img src="https://understanding963852.github.io/img/promise5.png" style="width:400px">
+* 실패라면...
+
